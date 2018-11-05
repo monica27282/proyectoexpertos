@@ -2,20 +2,20 @@ body
 {
 	margin: 0;
 	padding: 0;
-	background: url(../img/52.png) no-repeat;
+	background: url(../img/bk5.png) no-repeat;
 	background-size: cover;
 	font-family: sans-serif;
 }
 .loginBox
 {
 	position: absolute;
-	top: 60%;
+	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	width: 500px;
-	height: 670px;
-	padding: 60px 80px 40px 80px;
-	margin-bottom: 20px;
+	height: 698px;
+	padding: 40px 80px 40px 80px;
+	margin: 0px 0px 0px 0px;
 	box-sizing: border-box;
 	background: #7a789485;
 ;
@@ -93,4 +93,11 @@ h2
 
 h2{
 	color: #fff;
+}
+
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 60px;
+	margin-right: 0%;
 }

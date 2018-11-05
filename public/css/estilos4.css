@@ -1,3 +1,12 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url(../img/bk5.png) no-repeat;
+	background-size: cover;
+	font-family: sans-serif;
+}
+
 .d-flex {
     margin-bottom: 0% !important;
     background-color: #2c485e!important;
@@ -20,9 +29,18 @@ a.btn{
 
 a:hover{
     text-decoration-line: none !important;
-    color: blue !important;
+    
 }
 a.text-dark:hover{
    
     color:rgb(250, 229, 39) !important;
+}
+
+.container{
+    padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 330px;
+    margin-right:150%;
+    margin-top: 100px;
+
 }

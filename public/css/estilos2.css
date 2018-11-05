@@ -2,7 +2,7 @@ body
 {
 	margin: 0;
 	padding: 0;
-	background: url(../img/52.png) no-repeat;
+	background: url(../img/bk5.png) no-repeat;
 	background-size: cover;
 	font-family: sans-serif;
 }
@@ -17,7 +17,7 @@ body
 	padding: 60px 80px 40px 80px;
 	margin-bottom: 20px;
 	box-sizing: border-box;
-	background: #7a789485;
+	background: #b17f1285;
 ;
 }
 .user
@@ -93,4 +93,11 @@ h2
 
 h2{
 	color: #fff;
+}
+
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 60px;
+	margin-right: 0%;
 }
