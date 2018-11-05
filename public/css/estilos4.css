@@ -44,3 +44,7 @@ a.text-dark:hover{
     margin-top: 100px;
 
 }
+
+a.btn.btn-warning{
+    margin-left: 100px;
+}
